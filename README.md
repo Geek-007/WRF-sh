@@ -1,2 +1,2 @@
 # WRF-sh
-Scripts for configuring libraries needed for WRF, tests and installs 
+Scripts for configuring libraries needed for WRF tests and installations
